@@ -1,0 +1,16 @@
+C:\Users\Tyler\source\repos\toDoList\toDoList\bin\Debug\net8.0-windows\toDoList.exe
+C:\Users\Tyler\source\repos\toDoList\toDoList\bin\Debug\net8.0-windows\toDoList.deps.json
+C:\Users\Tyler\source\repos\toDoList\toDoList\bin\Debug\net8.0-windows\toDoList.runtimeconfig.json
+C:\Users\Tyler\source\repos\toDoList\toDoList\bin\Debug\net8.0-windows\toDoList.dll
+C:\Users\Tyler\source\repos\toDoList\toDoList\bin\Debug\net8.0-windows\toDoList.pdb
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\toDoList.Form1.resources
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\toDoList.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\toDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\toDoList.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\toDoList.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\toDoList.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\toDoList.dll
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\refint\toDoList.dll
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\toDoList.pdb
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\toDoList.genruntimeconfig.cache
+C:\Users\Tyler\source\repos\toDoList\toDoList\obj\Debug\net8.0-windows\ref\toDoList.dll
